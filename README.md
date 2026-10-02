@@ -87,8 +87,8 @@ Total inventory value: Rs. 11600.00
 ```
 
 ## Screenshots
-_![Console output](screenshots/console.png)
-![MySQL table](screenshots/database.png)
+![Console output](Screenshots/console.png)
+![MySQL table](Screenshots/database.png)
 
 ## Future improvements
 - Supplier and purchase order tracking
